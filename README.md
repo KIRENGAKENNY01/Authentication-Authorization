@@ -1,0 +1,1 @@
+// This is a simple project to test Authentication & Authorization and be able to send reset email to the user for resetting the password 
